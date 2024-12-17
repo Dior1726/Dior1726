@@ -1,16 +1,16 @@
-## Hi there 👋
+- 👋 Hi, I’m Mukhammadyorkhon Turskhanov (@dior1726)
+- 👀 Frontend development.
+- 💞️ Vue, Angular, React, NodeJs.
+- 📫 How to reach me 
+   - Telegram - @Mukhammadyor17
+   - Linkedin - https://www.linkedin.com/in/mukhammadyorkhon-turskhanov-6a3633233/
+ 
 
-<!--
-**Dior1726/dior1726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dior1726&theme=material_palenight)
 
-Here are some ideas to get you started:
+<!---
+mukhammadyor17/mukhammadyor17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
